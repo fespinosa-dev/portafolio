@@ -23,6 +23,12 @@ hr {
 .feature-img {
   width: 555px;
   height: 250px;
+  -webkit-transition-duration: 1s;
+}
+
+.feature-img:hover{
+  box-shadow: 2px 2px 15px #817FA0;
+  -webkit-transition-duration: 1s;
 }
 
 .slide-img {
