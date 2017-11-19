@@ -20,6 +20,10 @@ hr {
   height: 100px;
 }
 
+article a{
+  color: #393e45;
+}
+
 .feature-img {
   width: 555px;
   height: 250px;
