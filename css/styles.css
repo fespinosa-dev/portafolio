@@ -1,13 +1,13 @@
 h1 {
-  font-family: 'Work Sans', sans-serif;
+  font-family: "Work Sans", sans-serif;
 }
 
 h3 {
   color: #7d97ad;
-  padding: 15px 0px 0px 15px
+  padding: 15px 0 0 15px
 }
 
-h4{
+h4 {
   padding-top: 10px;
 }
 
@@ -24,18 +24,9 @@ hr {
   height: 100px;
 }
 
-article a{
+article a {
   color: #393e45;
 }
-
-
-
-.feature-img:hover{
-  /*box-shadow: 2px 2px 15px #817FA0;*/
-  /*-webkit-transition-duration: 1s;*/
-}
-
-
 
 .column, .columns {
   padding-left: 0.2rem;
