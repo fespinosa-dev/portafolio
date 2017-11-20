@@ -15,8 +15,10 @@ h6 {
   margin-top: -15px;
 }
 
-hr {
-  background-color: #7d97ad;
+.hr-rule {
+  border-bottom: 4px solid #7d97ad;
+  padding-bottom: 3%;
+  margin-bottom: 3%;
 }
 
 .logo {
