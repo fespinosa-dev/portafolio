@@ -28,21 +28,14 @@ article a{
   color: #393e45;
 }
 
-.feature-img {
-  width: 555px;
-  height: 250px;
-  /*-webkit-transition-duration: 1s;*/
-}
+
 
 .feature-img:hover{
   /*box-shadow: 2px 2px 15px #817FA0;*/
   /*-webkit-transition-duration: 1s;*/
 }
 
-.slide-img {
-  width: 1140px;
-  height: 350px;
-}
+
 
 .column, .columns {
   padding-left: 0.2rem;
