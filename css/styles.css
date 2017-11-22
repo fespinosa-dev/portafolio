@@ -26,16 +26,15 @@ h6 {
   height: 100px;
 }
 
-.project-link{
+.project-link {
   color: #393e45;
 }
 
-.footer{
+.footer {
   margin-top: 2%;
 }
 
-.column,
-.columns {
+.column, .columns {
   padding-left: 0.2rem;
   padding-top: 0.2rem;
 }
