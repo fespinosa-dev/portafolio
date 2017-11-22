@@ -26,8 +26,12 @@ h6 {
   height: 100px;
 }
 
-article a {
+.project-link{
   color: #393e45;
+}
+
+.footer{
+  margin-top: 2%;
 }
 
 .column, .columns {
